@@ -40,7 +40,7 @@ dbt project with seeds→staging→marts, tests, docs, snapshots, and a dashboar
 
 ## 📫 Connect
 - LinkedIn: [linkedin.com/in/sakars](https://linkedin.com/in/sakars)  
-- GitHub: [github.com/sakars](https://github.com/sakars)  
+- GitHub: [github.com/sakars](https://github.com/sakars14)  
 - Email: srivastavasakar@gmail.com  
 
 ---
