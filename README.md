@@ -10,13 +10,13 @@ This portfolio highlights my practical projects across ML, BI, fraud detection, 
 
 ### 1. [XGBoost Classification Engine](https://github.com/sakars14/xgboost-classification-engine)
 Supervised ML pipeline using XGBoost to predict customer propensity; improved targeting efficiency ~12% in sandbox.  
-**Stack:** Python (pandas, scikit-learn, xgboost), SQL, Power BI  
+**Stack:** Python (pandas, scikit-learn, xgboost), SQL, Tableau  
 
 ---
 
 ### 2. [K-Means Segmentation Engine](https://github.com/sakars14/kmeans-segmentation-engine)
 Unsupervised clustering with K-Means; created 5 customer personas for targeted campaigns and retention.  
-**Stack:** Python (pandas, scikit-learn), Power BI  
+**Stack:** Python (pandas, scikit-learn)  
 
 ---
 
